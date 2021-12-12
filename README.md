@@ -1,2 +1,11 @@
-# sharedpreferences
-Android Java Project Shared Preference with Notification
+# Android Shared Preferences
+
+## data
+
+- username
+- email
+- password
+
+##
+
+after login show datauser and notification
